@@ -1,4 +1,4 @@
-class rectangle1
+class rectangle
 {	
 	double label,b,area;
 	rectangle()
