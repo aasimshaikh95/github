@@ -1,6 +1,6 @@
-class rectangle
+class rectangle1
 {	
-	double l,b,areaa;
+	double label,b,area;
 	rectangle()
 	{
 	l=1;
@@ -22,7 +22,7 @@ class rectangle
 
 	void display()
 	{
-		System.out.println("Area of rectangle: "+ areaa);
+		System.out.println("Area of rectangle: "+ area);
 	}
 
 	/*void get()
